@@ -1,0 +1,16 @@
+.pic1 img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: dotted;
+  border-radius: 20px 80px;
+}
+
+.pic2 img {
+  display: block;
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  border-style: solid;
+  border-radius: 80px 20px;
+}
